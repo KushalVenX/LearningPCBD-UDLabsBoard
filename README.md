@@ -1,7 +1,7 @@
 # Repository Overview
 
 
-<img src="https://github.com/KushalVenX/LearningPCBD-UDLabsBoard/blob/main/IMAGES/Routing.png" width="500" />  <img src="https://github.com/KushalVenX/LearningPCBD-UDLabsBoard/blob/main/IMAGES/3Dview.png" width="310" />
+<img src="https://github.com/KushalVenX/LearningPCBD-UDLabsBoard/blob/main/IMAGES/Routing.png" width="490" />  <img src="https://github.com/KushalVenX/LearningPCBD-UDLabsBoard/blob/main/IMAGES/3Dview.png" width="310" />
 
 This repository contains a "Muscle BioAmp BisCute PCB design from Upside Down Labs", which is an open-source hardware project. The design has been replicated exactly from the original BisCute PCB to serve as an educational and learning purposes. 
 
