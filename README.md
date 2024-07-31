@@ -5,7 +5,7 @@
 
 This repository contains a "Muscle BioAmp BisCute PCB design from Upside Down Labs", which is an open-source hardware project. The design has been replicated exactly from the original BisCute PCB to serve as an educational and learning purposes. 
 
-This repository features a PCB design that is a routed version of the BisCute PCB. While this design is inspired by and closely resembles the original BisCute PCB, This design has been routed by me and is not the exact original design. This project is intended for educational and learning purposes.
+This repository features a PCB design that is a routed version of the BisCute PCB. While this design is inspired by and closely resembles the original BisCute PCB, This design has been routed by me and is not the **exact** original design. This project is intended for educational and learning purposes.
 
 ## Purpose
 
