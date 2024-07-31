@@ -11,13 +11,15 @@ This repository features a PCB design that is a routed version of the BisCute PC
 
 The repository is intended for educational purposes and learning. It offers an opportunity to:
 
--Explore PCB Design: Understand and study the layout and routing of a real-world PCB.
+-**Explore PCB Design**: Understand and study the layout and routing of a real-world PCB.
 
--Experiment: Modify the design for personal projects or educational exercises.
+-**Experiment**: Modify the design for personal projects or educational exercises.
 
--Teach: Use this routed version as a teaching tool for PCB design concepts.
+-**Teach**: Use this routed version as a teaching tool for PCB design concepts.
 
 ## Original Credits
+
+**UPSIDE DOWN LABS**
 
 website: https://upsidedownlabs.tech/
 
